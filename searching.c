@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
+    //hi this is gurkirat singh
     int data;
     struct node * next;
 };struct node * start;
