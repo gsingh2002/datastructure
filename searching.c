@@ -1,4 +1,5 @@
 #include<stdio.h>
+#includE<sys>
 #include<stdlib.h>
 struct node{
     //hi this is gurkirat singh
