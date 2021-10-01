@@ -61,4 +61,5 @@ int main(){
     linklisttraversal();
     delete();
     linklisttraversal();
+    linklisttraversal();linklisttraversal();
 }
