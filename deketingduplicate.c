@@ -3,6 +3,9 @@
 struct node
 {
     int data;
+    
+    struct node * next;
+    struct node * next;
     struct node * next;
 };struct node * start;
 void create(){
