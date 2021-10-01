@@ -2,7 +2,9 @@
 #include<stdlib.h>
 struct node
 {
+//     int data;
     int data;
+//     struct node * next;
     struct node * next;
 };struct node * start;
 void create(){
