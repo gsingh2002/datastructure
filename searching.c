@@ -1,8 +1,9 @@
 #include<stdio.h>
 #includE<sys>
+#include<string.h>
+#include<stack.h>
 #include<stdlib.h>
 struct node{
-    //hi this is gurkirat singh
     int data;
     struct node * next;
 };struct node * start;
